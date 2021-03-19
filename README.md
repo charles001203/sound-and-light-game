@@ -6,7 +6,7 @@ Submitted by: **Charles Yu**
 
 Time spent: **1** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (insert your link here, should start with https://github.com/charles001203/sound-and-light-game.git)
 
 ## Required Functionality
 
