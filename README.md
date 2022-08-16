@@ -7,4 +7,5 @@ Link to project: (insert your link here, should start with https://github.com/ch
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 ![](https://i.imgur.com/Dutck3t.gif)
